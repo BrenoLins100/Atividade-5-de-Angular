@@ -1,9 +1,9 @@
 # Atividade-5-de-Angular
 ⚡Atividade 5 de Angular Utilizando a ide StackBlitz⚡
 
-#Todo 📝
+# Todo 📝
 
-📝Crie um projeto com os seguintes requisitos
+# 📝Crie um projeto com os seguintes requisitos:
 
 1. ⚡Um serviço que consulte a taxa do bitcoin em USD e BRL
 
