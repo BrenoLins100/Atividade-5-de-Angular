@@ -16,3 +16,7 @@
 5. ⚡Um cabeçalho que o identifique (nome e RA)
 
 6. ⚡Uma tabela que liste a atualização da taxa de bitcoin a cada minuto sempre que houver alteração
+
+## Link para aplicação no Stackblitz:
+
+https://stackblitz.com/edit/bitcoin-temp?file=src/app/app.component.ts
